@@ -6,12 +6,3 @@
 	margin-left: auto;
 	margin-right: auto;
 }
-.divTableHeading {
-	display: table-header-group;
-}
-.divTableCell, .divTableHead {
-	display: table-cell;
-}
-.divTableBody {
-	display: table-row-group;
-}
