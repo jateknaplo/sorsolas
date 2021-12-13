@@ -1,6 +1,7 @@
 /*sorsolás*/
-{    margin: 0 auto;
-    max-width: 750px;
+.body{   
+	margin: 0 auto;
+	max-width: 750px;
 }
 .divTable{
 	display: table;
