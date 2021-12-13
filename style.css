@@ -1,0 +1,33 @@
+/*sorsolás*/
+.divTable{
+	display: table;
+	width: 100%;
+  	position: relative;
+	right: 88px;
+  	font-size: 14px;
+  	text-align: center;
+}
+.divTableRow {
+	display: table-row;
+}
+.divTableHeading {
+	display: table-header-group;
+}
+.divTableCell, .divTableHead {
+	display: table-cell;
+	padding: 0px 3px;
+}
+.divTableCell .imgnotext {
+    margin: 0px !important;
+}
+.divTableHeading {
+	display: table-header-group;
+	font-weight: bold;
+}
+.divTableFoot {
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody {
+	display: table-row-group;
+}
