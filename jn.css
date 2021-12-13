@@ -4,9 +4,6 @@
   	font-size: 14px;
   	text-align: center;
 }
-.divTableRow {
-	display: table-row;
-}
 .divTableHeading {
 	display: table-header-group;
 }
